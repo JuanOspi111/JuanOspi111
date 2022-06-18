@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @JuanOspi111
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+JuanOspi111/JuanOspi111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!-- 
+ohhhh greath, dont worry, i want learning much code in github, and write much code, with help of doc ccv 
+-->
